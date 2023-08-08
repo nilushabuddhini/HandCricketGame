@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(to left,rgb(150, 28, 150),rgb(40, 40, 193),rgb(43, 190, 190));
+}
+#Hand{
+    margin-left: 10%;
+}
+#btnr{
+    display: none;
+}
+#img{
+    display: flex;
+    justify-content: center;
+}
